@@ -4,7 +4,7 @@ title: Lecture Notes
 uid: b64c2320-58ba-46e9-d9a7-1b0591bf82d3
 ---
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)1: Introduction to Phonetics and Grammar (PDF - 3.8MB)]({{< baseurl >}}/resources/mit24_915f15_lec1)
+[1: Introduction to Phonetics and Grammar (PDF - 3.8MB)]({{< baseurl >}}/resources/mit24_915f15_lec1)
 
 [2: Audition, Analog / Digital Conversion (PDF - 1.2MB)]({{< baseurl >}}/resources/mit24_915f15_lec2)
 

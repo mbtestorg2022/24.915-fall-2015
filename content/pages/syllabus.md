@@ -23,7 +23,7 @@ We will also be learning experimental and analytical techniques that enable us t
 Prerequisites
 -------------
 
-[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012/pages/index.htm) or equivalent. I will assume a basic knowledge of articulatory phonetic description, transcription and phonological theory.
+[_24.900 Introduction to Linguistics_](/courses/24-900-introduction-to-linguistics-fall-2012) or equivalent. I will assume a basic knowledge of articulatory phonetic description, transcription and phonological theory.
 
 Topics To Be Covered
 --------------------
